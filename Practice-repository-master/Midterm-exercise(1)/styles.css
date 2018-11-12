@@ -1,0 +1,32 @@
+blockquote {
+  color:aliceblue;
+  font-size: 1.5em;
+}
+p {
+  padding-right:400px;
+}
+#sidebar {
+  width: 32%;
+  float: right;
+  background: grey;
+  padding-right: 15px;
+  margin-right: 200px;
+}
+#main-nav a, #main-nav a:visited {
+	text-decoration: none;
+}
+#main-nav a:hover, #main-nav a:focus, #main-nav a:active {
+	text-decoration: none;
+}
+main {
+  margin-right: 200px;
+}
+.article-thumbs {
+  text-align: rights;
+  clear: both;
+  padding: 10px;
+  border: 15px;
+}
+h2 {
+  color:grey;
+}
